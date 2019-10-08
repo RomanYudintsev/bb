@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.apple.xcode.dsym.com.buffalo-studios.newflashbingo</string>
+                <string>com.buffalo-studios.newflashbingo</string>
                 <key>bundle-version</key>
                 <string>4.25.3461</string>
                 <key>kind</key>
